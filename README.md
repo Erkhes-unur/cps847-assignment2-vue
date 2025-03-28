@@ -27,4 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# cps847-assignment2-vue
